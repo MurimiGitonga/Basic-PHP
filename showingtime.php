@@ -1,3 +1,3 @@
 <?php
-echo "This is time" .date();
+echo "This is time" .date("h:i:sa");
 ?>
